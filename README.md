@@ -28,8 +28,8 @@ First you're gonna have to download the theme itself first.
 Here is a sweet little link to the latest version of the theme since im SO KIND.
 
 <https://github.com/CannedToes/blender-monokai/raw/refs/heads/main/Monokai.xml>
-
-To install the theme it's as simple as opening Blender, pressing `Ctrl + Comma` (`Edit -> Preferences...`), going to the `Themes` tab, clicking install, then giving it the XML theme file.
+> [!NOTE]
+> Right click the link and click `Save Link As`
 
 ---
 
