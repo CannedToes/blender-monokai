@@ -36,7 +36,7 @@ Here is a sweet little link to the latest version of the theme since im SO KIND.
 ## Acknowledgements
 
 - [SylEleuth/blender-gruvbox](https://github.com/SylEleuth/blender-gruvbox)  
-  a theme that I used for inspiration and sort of the layout to making an actually readable theme that actually looks somewhat decent. I am not a graphic designer.
+  a theme that I used for inspiration and sort of the layout to making an actually readable theme that actually looks somewhat decent. I am not a ui designer.
 
 - [5argon/monokai-blender](https://github.com/5argon/monokai-blender)  
   another monokai theme that I used for a while and really like but it was made for a way older blender version and isn't as "classic piss yellow" as I wanted it to be. If you don't like mine definitely check out this one it's great!
