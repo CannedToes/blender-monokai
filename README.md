@@ -31,6 +31,11 @@ Here is a sweet little link to the latest version of the theme since im SO KIND.
 > [!TIP]
 > Right click the link and click `Save Link As`
 
+To install the theme, open Blender and go to `Edit -> Preferences` from the toolbar at the top. You can also use the shortcut `Ctrl + ,`.  
+In the Preferences window, select `Themes` from the sidebar. Then click `Install`, choose the Monokai theme file, and select `"Monokai"` from the theme dropdown.  
+
+Enjoy!
+
 ---
 
 ## Acknowledgements
