@@ -28,7 +28,7 @@ First you're gonna have to download the theme itself first.
 Here is a sweet little link to the latest version of the theme since im SO KIND.
 
 <https://github.com/CannedToes/blender-monokai/raw/refs/heads/main/Monokai.xml>
-> [!NOTE]
+> [!TIP]
 > Right click the link and click `Save Link As`
 
 ---
